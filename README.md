@@ -1,4 +1,4 @@
-<h1 align="center">~ zoro.sh</h1>
+<h1 align="center"> Zoro.sh</h1>
 
 <p align="center">
 🗡️ Anonymous dev monk — cutting through noise, building in silence.<br/>
