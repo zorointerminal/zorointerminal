@@ -28,8 +28,9 @@ Writing code. Dropping logs. Practicing terminal discipline.
 
 ### `~/zoro.sh/connect`
 
-I drop cutlogs, tools, and stoic signals daily.  
-No noise. Just the craft.
+I post daily — cutlogs, tools I build, fragments from the terminal.  
+Sometimes I drop signals from the outside world too.  
+Stories. Tools. Movements. All filtered through the shell.
 
 📡 [X.com/zoro.sh](https://x.com/zorointerminal)
 
