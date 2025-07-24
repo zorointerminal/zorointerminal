@@ -18,7 +18,7 @@ Writing code. Dropping logs. Practicing terminal discipline.
 >  
 > I build in silence — and drop when ready.
 
-~/zoro.sh/ethos
+### `~/zoro.sh/ethos`
 
 // no hype
 // no shortcuts
@@ -26,7 +26,7 @@ Writing code. Dropping logs. Practicing terminal discipline.
 
 > write logs. build tools. stay dangerous.
 
-~/zoro.sh/connect
+### `~/zoro.sh/connect`
 
 I drop cutlogs, tools, and stoic signals daily.  
 No noise. Just the craft.
