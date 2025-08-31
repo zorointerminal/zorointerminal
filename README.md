@@ -14,8 +14,6 @@ Writing code. Dropping logs. Practicing terminal discipline.
 > ✦ Cloud  
 > ✦ DevOps  
 > ✦ Cybersecurity
-> ✦ Web3
-> 
 > 
 > I build in silence — and drop when ready.
 
