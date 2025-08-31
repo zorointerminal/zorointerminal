@@ -16,6 +16,7 @@ Writing code. Dropping logs. Practicing terminal discipline.
 > ✦ Cybersecurity
 > ✦ Web3
 > 
+> 
 > I build in silence — and drop when ready.
 
 ### `~/zoro.sh/ethos`
