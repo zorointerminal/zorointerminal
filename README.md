@@ -10,12 +10,12 @@ Writing code. Dropping logs. Practicing terminal discipline.
 ### `~/zoro.sh/cutlogs`
 
 > Daily learning logs — small cuts, sharpened daily.  
->  
-> ✦ Terminal  
+>    
 > ✦ Cloud  
 > ✦ DevOps  
-> ✦ Web3  
->  
+> ✦ Cybersecurity
+> ✦ Web3
+> 
 > I build in silence — and drop when ready.
 
 ### `~/zoro.sh/ethos`
